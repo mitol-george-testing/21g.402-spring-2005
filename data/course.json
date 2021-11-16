@@ -1,0 +1,31 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "Language",
+      "German"
+    ],
+    [
+      "Society",
+      "European and Russian Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "9cf54f6c-5845-45de-dc21-804b721c5aff"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "German II",
+  "course_description": "In this course students are exposed to history and culture of German-speaking countries through audio, video, and Web materials. It focuses on the expansion of basic communication skills and further development of linguistic competency, and includes the review and completion of basic grammar, building of vocabulary, and practice in writing short essays. Students will also read short literary texts.\n",
+  "department_numbers": [
+    "21G"
+  ],
+  "extra_course_numbers": "21G.452",
+  "primary_course_number": "21G.402",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
